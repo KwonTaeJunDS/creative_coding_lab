@@ -4,7 +4,7 @@ Interactive fogged-glass webcam experience built with React, TypeScript, Vite, T
 
 ## Links
 
-- Live demo: [05steamyglass.vercel.app](https://05steamyglass.vercel.app)
+- Live demo: [steamyglass](https://05steamyglass.vercel.app)
 - GitHub repository: [KwonTaeJunDS/creative_coding_lab/tree/main/steam_glass](https://github.com/KwonTaeJunDS/creative_coding_lab/tree/main/steam_glass)
 
 ## Features
@@ -58,17 +58,16 @@ public/
 
 Made in TouchDesigner using MediaPipe (The Tracker by @okamirufu.vizualizer).
 
-This web adaptation was built with respect for the original inspiration and tracking workflow.
 
 ---
 
-# 스티미 글래스
+# 김서림 거울
 
-React, TypeScript, Vite, Tailwind CSS, MediaPipe Hands, HTML5 Canvas API로 만든 인터랙티브 김서림 유리 웹 프로젝트입니다.
+React, TypeScript, Vite, Tailwind CSS, MediaPipe Hands, HTML5 Canvas API로 만든 인터랙티브 김서림 거울 웹입니다. 
 
 ## 링크
 
-- 라이브 데모: [05steamyglass.vercel.app](https://05steamyglass.vercel.app)
+- 라이브 데모: [steamyglass](https://05steamyglass.vercel.app)
 - GitHub 저장소: [KwonTaeJunDS/creative_coding_lab/tree/main/steam_glass](https://github.com/KwonTaeJunDS/creative_coding_lab/tree/main/steam_glass)
 
 ## 주요 기능
@@ -100,5 +99,3 @@ npm run build
 ## 크레딧
 
 Made in TouchDesigner using MediaPipe (The Tracker by @okamirufu.vizualizer).
-
-원작의 아이디어와 트래킹 워크플로우에 대한 존중을 담아 웹 버전으로 재해석했습니다.
